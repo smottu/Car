@@ -1,0 +1,50 @@
+
+.carbody {
+  margin-top: 10%;
+  display: flex;
+  position: relative
+}
+
+
+
+.box1 {
+  width: 1000px;
+  height: 500px;
+  background-color: red;
+}
+
+.box2 {
+  width: 200px;
+  height: 250px;
+  background-color: #CCFFFF;
+  position: absolute;
+  top: 100px;
+  left: 30px;
+}
+
+.box3 {
+  width: 100px;
+  height: 250px;
+  background-color: #CCFFFF;
+  position: absolute;
+  top: 100px;
+  left: 260px;
+}
+
+
+.box4 {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  position: absolute;
+  top: 400px;
+  left: 30px
+}
+
+.box5 {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  position: absolute;
+  top: 400px;
+  left: 530px
