@@ -62,3 +62,14 @@
   position: absolute;
   transform: rotate(5deg);
 }
+
+.fedein-before {
+  opacity: 0;
+  transform: translateX(-100px);
+  transition: opacity 1s,transform 1s;
+}
+
+.fadein-after {
+  opacity: 1;
+  transform: translate(0);
+}
