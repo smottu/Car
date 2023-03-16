@@ -1,0 +1,13 @@
+body {
+  margin:10%;
+  text-align: center;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.text {
+  margin-top: 200px;
+}
+
+.randomAnime {
+	visibility: hidden;
+}
